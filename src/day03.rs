@@ -1,9 +1,7 @@
-#[allow(dead_code)]
 pub fn part_1(_input: &str) -> String {
     String::new()
 }
 
-#[allow(dead_code)]
 pub fn part_2(_input: &str) -> String {
     String::new()
 }

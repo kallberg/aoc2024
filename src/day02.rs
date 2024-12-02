@@ -73,7 +73,6 @@ impl Change {
     }
 }
 
-#[allow(dead_code)]
 pub fn part_1(input: &str) -> String {
     let mut safe = 0;
 
@@ -92,7 +91,6 @@ pub fn part_1(input: &str) -> String {
     safe.to_string()
 }
 
-#[allow(dead_code)]
 pub fn part_2(input: &str) -> String {
     let mut safe = 0;
 

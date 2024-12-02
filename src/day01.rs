@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 
-#[allow(dead_code)]
 pub fn part_1(input: &str) -> String {
     let mut left: Vec<u32> = vec![];
     let mut right: Vec<u32> = vec![];
@@ -27,7 +26,6 @@ pub fn part_1(input: &str) -> String {
     sum.to_string()
 }
 
-#[allow(dead_code)]
 pub fn part_2(input: &str) -> String {
     let mut right_freq: HashMap<u32, u32> = HashMap::new();
     let mut left: Vec<u32> = vec![];
