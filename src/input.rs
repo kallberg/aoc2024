@@ -3,7 +3,7 @@ pub mod example {
     pub const DAY_02: &str = include_str!("../input/example/2");
     pub const DAY_03: &str = include_str!("../input/example/3");
     pub const DAY_04: &str = include_str!("../input/example/4");
-    pub const DAY_05: &str = include_str!("../input/example/placeholder");
+    pub const DAY_05: &str = include_str!("../input/example/5");
     pub const DAY_06: &str = include_str!("../input/example/placeholder");
     pub const DAY_07: &str = include_str!("../input/example/placeholder");
     pub const DAY_08: &str = include_str!("../input/example/placeholder");
@@ -30,7 +30,7 @@ pub const DAY_01: &str = include_str!("../input/1");
 pub const DAY_02: &str = include_str!("../input/2");
 pub const DAY_03: &str = include_str!("../input/3");
 pub const DAY_04: &str = include_str!("../input/4");
-pub const DAY_05: &str = include_str!("../input/placeholder");
+pub const DAY_05: &str = include_str!("../input/5");
 pub const DAY_06: &str = include_str!("../input/placeholder");
 pub const DAY_07: &str = include_str!("../input/placeholder");
 pub const DAY_08: &str = include_str!("../input/placeholder");
